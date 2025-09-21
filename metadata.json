@@ -1,0 +1,5 @@
+{
+  "name": "Jetson OS Cloner Guide",
+  "description": "A step-by-step interactive guide to help you clone your NVIDIA Jetson OS from an SD card to a bootable SSD. This application provides the necessary terminal commands and warnings to ensure a safe and successful migration.",
+  "requestFramePermissions": []
+}
